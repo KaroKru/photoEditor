@@ -44,4 +44,10 @@ or from
 pip install –r requirements.txt
 ```
 
+## How to run PhotoEditor
 
+Using cmd type
+
+```
+python main.py
+```
